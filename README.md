@@ -1,4 +1,4 @@
 # Projects-based-on-JavaScript
 
-A to do list template based on JavaScript.
+A 'To Do List' template based on JavaScript.
 
